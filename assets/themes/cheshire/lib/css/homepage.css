@@ -127,10 +127,10 @@ nav.homepage-top .menu li a:active {
   color: #2D2D2D;
 }
 nav.homepage-top .menu li.floor-plans {
-  background-image: url(../img/bkg_floorplans.jpg);
+  background-image: url(../img/floor_plans_trillium.png);
 }
 nav.homepage-top .menu li.lifestyle {
-  background-image: url(../img/bkg_lifestyle.jpg);
+  background-image: url(../img/man_gardening.png);
 }
 .site-inner .button,
 .site-inner .button:hover {
