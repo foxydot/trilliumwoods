@@ -8047,7 +8047,7 @@ Site Footer
   padding: 2rem;
 }
 .site-footer a {
-  color: #ffffff;
+  color: #2d2d2d;
 }
 .site-footer a:hover {
   color: rgba(255, 255, 255, 0.8);
@@ -8078,7 +8078,7 @@ Site Footer
   font-weight: 700;
 }
 .site-footer .wrap div.icons i.icon-equal-housing {
-  background-image: url(../img/icon-equal-housing.png);
+  background-image: url(../img/icon-equal-housing-blk.png);
 }
 .site-footer .wrap div.icons i.logo {
   height: 40px;
@@ -8095,7 +8095,7 @@ Site Footer
   background-image: url(../img/logo-leed.svg);
 }
 .site-footer .wrap div.icons i.logo-lcs {
-  background-image: url("../img/lcs_white_logo.png");
+  background-image: url("../img/logo-lcs-new-blk.png");
   background-position: right center;
   font-style: normal;
   line-height: 3;
