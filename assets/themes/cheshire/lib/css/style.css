@@ -7334,9 +7334,9 @@ Site Navigation
 .nav-primary li:hover a:hover,
 .nav-primary li.current-menu-item a:hover,
 .nav-primary li.current-menu-ancestor a:hover {
-  color: #787746;
+  color: #ffffff;
   text-decoration: none;
-  border-bottom: 6px solid #787746;
+  border-bottom: 6px solid #ffffff;
 }
 .mainNav > ul > li.first > ul > li.title > ul > li > ul > li {
   padding: 3px 0;
