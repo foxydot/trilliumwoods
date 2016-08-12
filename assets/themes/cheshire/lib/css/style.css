@@ -8008,11 +8008,11 @@ Footer Widgets
   text-align: left;
 }
 .footer-widgets .widget.widget_nav_menu ul.menu {
-  -moz-column-count: 5;
+  -moz-column-count: 4;
   -moz-column-gap: 40px;
-  -webkit-column-count: 5;
+  -webkit-column-count: 4;
   -webkit-column-gap: 40px;
-  column-count: 5;
+  column-count: 4;
   column-gap: 40px;
 }
 .footer-widgets .widget.widget_nav_menu ul.menu > li {
