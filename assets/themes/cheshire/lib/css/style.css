@@ -8082,6 +8082,9 @@ Site Footer
 }
 .site-footer .wrap div.icons i.icon-equal-housing {
   background-image: url(../img/Equal-Housing-new2-blk.png);
+  height: 25px;
+  top: .3em;
+  position: relative;
 }
 .site-footer .wrap div.icons i.logo {
   height: 40px;
