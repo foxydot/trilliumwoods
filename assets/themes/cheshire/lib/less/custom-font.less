@@ -1,9 +1,23 @@
 // Default Variables  http://thesabbir.github.io/simple-line-icons/
+@dear-sarah-font-path        : "../fonts/";
+@dear-sarah-font-family      : "DearSarah-Regular, cursive";
 @simple-line-font-path        : "../fonts/";
 @simple-line-font-family      : "Simple-Line-Icons";
 @simple-line-icon-prefix      : icon-;
 
 // Fonts
+@font-face {
+  font-family: 'DearSarah-Regular';
+  src: url('@{dear-sarah-font-path}DearSarah-Regular.eot');
+  src: url('@{dear-sarah-font-path}DearSarah-Regular.woff2') format('woff2'),
+       url('@{dear-sarah-font-path}DearSarah-Regular.woff') format('woff'),
+       url('@{dear-sarah-font-path}DearSarah-Regular.ttf') format('truetype'),
+       url('@{dear-sarah-font-path}DearSarah-Regular.svg#DearSarah-Regular') format('svg'),
+       url('@{dear-sarah-font-path}DearSarah-Regular.eot?#iefix') format('embedded-opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 @font-face {
   font-family: 'Simple-Line-Icons';
   src:    url('@{simple-line-font-path}Simple-Line-Icons.eot');
