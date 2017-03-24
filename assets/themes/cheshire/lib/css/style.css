@@ -8587,6 +8587,9 @@ Site Footer
   .site-inner {
     background-image: none;
   }
+	.site-inner .content {
+		float: none;
+	}
   .footer-widgets .widget.widget_nav_menu ul.menu {
     width: 100%;
     -moz-column-count: 2;
